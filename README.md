@@ -1,1 +1,2 @@
-I made this by use mcp
+# mcp server hello world with java
+![Show it](result.jpg)
